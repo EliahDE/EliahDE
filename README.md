@@ -1,7 +1,7 @@
 ### Hi there, I'm Eliah 👋
 
 ## I'm working on something special!
-- 🔭 [Pingulin][https://pingulin.me/] is a nice Discord Bot, that you can add to your server!
+- 🔭 [Pingulin](https://pingulin.me/) is a nice Discord Bot, that you can add to your server!
 
 ## Some things about me: 
 - 🇩🇪 I come frome germany!
