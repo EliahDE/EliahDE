@@ -6,7 +6,7 @@
 ## Some things about me: 
 - 🇩🇪 I come frome germany!
 - 🌱 I’m currently learning JavaScript!
-- 👀 I'm 14 years old!
+- 👀 I'm 15 years old!
 - 📫 How to reach me: admin@pingulin.me
 
 ![Eliah's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliahDE&show_icons=true&theme=radical)
